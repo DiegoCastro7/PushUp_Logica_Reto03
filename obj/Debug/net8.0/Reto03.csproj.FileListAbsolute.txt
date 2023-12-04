@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\bin\Debug\net8.0\Reto03.exe
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\bin\Debug\net8.0\Reto03.deps.json
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\bin\Debug\net8.0\Reto03.runtimeconfig.json
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\bin\Debug\net8.0\Reto03.dll
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\bin\Debug\net8.0\Reto03.pdb
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.AssemblyInfo.cs
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.sourcelink.json
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.dll
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\refint\Reto03.dll
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.pdb
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\Reto03.genruntimeconfig.cache
+C:\Users\user\Desktop\PushUp-Prb_Logica\Reto03\obj\Debug\net8.0\ref\Reto03.dll
